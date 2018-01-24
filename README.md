@@ -12,7 +12,7 @@ Methods Used:
 2. Similary Search and Clustering to find the similar pregncnecy cases happened in the pas
 3. Machine Learning to evalute the risk of new infant death
 
-For coplete details refer [Report](https://github.com/techiepanda/infant-mortality-data-analysis/blob/master/Project%20Report.pdf)
+For complete details refer [Report](https://github.com/techiepanda/infant-mortality-data-analysis/blob/master/Project%20Report.pdf)
 
 ### Team
 [Renu Rani](https://github.com/techiepanda)

@@ -4,7 +4,7 @@ In this project, we analyzed the infant mortality data from Center for Disease C
 2. Provide reference to similar pregnency cases in tha past to help the doctors in taking informed decisions.
 
 
-Data Link: [CDC Data][https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm]
+Data Link: [CDC Data](https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm)
 
 Methods Used:
 1. Spark for Data Processing
@@ -12,7 +12,7 @@ Methods Used:
 2. Similary Search and Clustering to find the similar pregncnecy cases happened in the pas
 3. Machine Learning to evalute the risk of new infant death
 
-For coplete details refer [Report][]
+For coplete details refer [Report](https://github.com/techiepanda/infant-mortality-data-analysis/blob/master/Project%20Report.pdf)
 
 ### Team
 [Renu Rani](https://github.com/techiepanda)

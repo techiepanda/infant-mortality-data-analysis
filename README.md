@@ -17,8 +17,6 @@ For complete details refer [Report](https://github.com/techiepanda/infant-mortal
 ### Team
 [Renu Rani](https://github.com/techiepanda)
 
-[Anurag Arora ](https://github.com/geekyspartan)
-
 [Keshav Gupta](https://github.com/keshav11)
 
 [Shayan Ray](https://github.com/shayanray)
